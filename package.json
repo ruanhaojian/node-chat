@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat rom ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "ruanhaojian",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^1.2.7",
+    "socket.io": "^0.9.6"
+  }
+}
